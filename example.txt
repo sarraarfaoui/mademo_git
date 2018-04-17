@@ -1,1 +1,2 @@
 ligne1 de l'exemple
+ligne2 de l'exemple
